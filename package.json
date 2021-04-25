@@ -1,0 +1,24 @@
+{
+  "name": "learnnode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "mod1.js",
+  "dependencies": {
+    "dateformat": "^4.5.1",
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/code-malayalam/learnnode.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/code-malayalam/learnnode/issues"
+  },
+  "homepage": "https://github.com/code-malayalam/learnnode#readme"
+}
